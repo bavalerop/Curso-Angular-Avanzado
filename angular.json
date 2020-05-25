@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ADMINPRO"
+    }
+  },
+  "defaultProject": "ADMINPRO",
+  "cli": {
+    "analytics": false
+  }
 }
